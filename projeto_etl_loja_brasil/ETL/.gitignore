@@ -1,0 +1,10 @@
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Variáveis e Credenciais 
+.env/
+
+# Pyrhon
+_pycache_/
